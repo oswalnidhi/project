@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+To Run the Given Code Follow these steps:
+
+1. Open project in Android Studio and open the lib/main.dart file.
+2. If you find any errors run the pubsec.yaml file first.
+3. On the top header there is a run command, using that command run the main.dart file.
+
+Outpu:
+ Output will be generated on the emulator.
